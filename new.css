@@ -1,0 +1,115 @@
+#new.img{
+    width: 200px;
+    height: 150px;
+    border: 15px;
+    padding: 15px solid color;
+    display: inline-block;
+    position: relative;
+}
+.image1,.image2,.image3,.image4{
+    top: 0;
+    left: 0;
+    position:relative;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.refer{
+    position: absolute;
+    right: 30px;
+    padding-right: 25px;
+    margin: -20px;
+}
+.pic{
+    position: relative;
+}
+.heading{
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+.label{
+    top: 0;
+    left: 0;
+    position:absolute;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    display: inline-block;
+    margin:4px;
+    margin-bottom: 10px;
+}
+.data{
+    position:relative;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    display: inline;
+    margin:4px;
+}
+
+.hi{
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    margin:1px;
+    text-align: left;
+}
+.hello{
+    border: 10px;
+    position: relative;
+    margin: 5px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
+.abc{ 
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border: 15px;
+    padding: 5px solid color;
+    margin: 25px;
+    position:static;
+    display: inline-block;
+}
+h3{
+    margin: 1px;
+}
+p{
+    font-size: small;
+    font-style: italic;
+}
+div{
+    display: inline-block;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
+ input{
+    width: 100%;
+    margin-bottom: 10px;
+ }
+h4, a{
+   background-color: black;
+   color: white;
+   width: 100%;
+}
+body{
+    background-color: lightgreen;
+}
+
